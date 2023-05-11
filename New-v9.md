@@ -12,14 +12,7 @@
 
 "ColorBackGround": "#ffffff",
 
-"TitleGravity": "center",
-
-"MessageGravity": "center",
-
-"ColorMessage": "#ff323232",
-
-"ColorTitle": "#ff111111",
-
+"TitleGravity": "center"
 "ColorBtn": "#ffffff",
 
 "ColorBtnBg": "#00a043",
@@ -40,7 +33,7 @@
 
 "Closure": "true",
 
-"Show": "on"
+"Show": "off"
 
 }
 
